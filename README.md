@@ -87,5 +87,5 @@ Alcune operazioni (es. film più visti della settimana, classifiche delle ultime
 ---
 
 ## 👥 Autori
-* Dario Falaschi
-* Leonardo Lentini
+* [Dario Falaschi](https://github.com/Dariofala)
+* [Leonardo Lentini](https://github.com/LeonardoLentini)
